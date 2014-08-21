@@ -12,7 +12,15 @@ This alfred workflow contain these tasks.
 - git push
 - Upload image
 
+
+## Installation
+
+1. Download https://github.com/efcl/my-alfred-workflow/archive/master.zip
+2. Rename zip to user.alfredworkflow
+3. Install in alfred
+
 You have to rewrite domain and path...
+
 
 ## Contributing
 
